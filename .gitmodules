@@ -1,0 +1,6 @@
+[submodule "support/vows"]
+	path = support/vows
+	url = https://github.com/cloudhead/vows.git
+[submodule "support/underscore"]
+	path = support/underscore
+	url = https://github.com/documentcloud/underscore.git
