@@ -1,13 +1,6 @@
-# node-slug
-
-  Slug generator for friendly urls. Port of rsl/stringex to node.js.
-
-
-## License 
-
 (The MIT License)
 
-Copyright (c) 2011-2011 Charlie Liang Yuan &lt;charlie@youpoll.me&gt;
+Copyright (c) 2011-2011 Charlie Liang Yuan <charlie@youpoll.me>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

@@ -1,1 +1,1 @@
-require('./lib/node-slug');
+module.exports = require('./lib/node-slug');
